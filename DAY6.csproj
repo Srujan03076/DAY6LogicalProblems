@@ -48,7 +48,7 @@
   <ItemGroup>
     <Compile Include="fibonnaci.cs" />
     <None Include="Perfect.numbercs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="PrimeNo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
